@@ -55,10 +55,6 @@ def funzione_di_eulero(numero: int) -> int:
             numero_di_coprimi += 1
     return numero_di_coprimi
 
-dict = {"nome": "matteo", "cognome": "Borgio", "eta": 16, "morto": False}
-
-print(dict["nome"])
-        
 
 
 
